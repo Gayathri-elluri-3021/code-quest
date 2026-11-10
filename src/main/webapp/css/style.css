@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+body {
+    background: linear-gradient(135deg, #101020, #241044);
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+h1 {
+    color: #00e5ff;
+    font-size: 45px;
+}
+
+h2 {
+    color: #ffcc00;
+}
+
+nav {
+    margin: 35px 0;
+}
+
+nav a {
+    display: inline-block;
+    background: #673ab7;
+    color: white;
+    padding: 14px 20px;
+    margin: 7px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background: #00bcd4;
+}
+
+p {
+    font-size: 19px;
+}
